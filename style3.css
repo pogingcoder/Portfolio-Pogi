@@ -1,0 +1,10 @@
+/* style.css */
+body {
+ margin: 0;
+ overflow: hidden;
+}
+canvas {
+ display: block;
+ background: url('background-gradient-black-overlay-abstract-background-black-night-dark-evening-with-space-for-text-for-a-background-free-photo.jpg') no-repeat center center;
+ background-size: cover;
+}
